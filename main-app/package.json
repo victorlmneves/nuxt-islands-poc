@@ -9,7 +9,7 @@
         "preview": "nuxt preview --port 3000"
     },
     "dependencies": {
-        "nuxt": "^3.13.0",
+        "nuxt": "^3.21.6",
         "vue": "^3.4.0"
     }
 }
